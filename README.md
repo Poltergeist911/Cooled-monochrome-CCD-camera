@@ -117,6 +117,6 @@ Practical system-level trade-offs
 
 🛠️ In active development — iterative refinement across hardware, firmware, and mechanical subsystems.
 
-![alt text](image-1.png)
-![alt text](image-2.png)
 ![alt text](image-3.png)
+![alt text](image-2.png)
+![alt text](image-1.png)
